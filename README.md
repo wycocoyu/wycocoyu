@@ -16,21 +16,13 @@
 ## 🚀 关于我 / About Me
 
 - 🎯 **Go / 后端开发者**，专注分布式服务、中间件与 AI × Backend 应用
-- 🏆 **开源贡献者** —— 为 [Apache Dubbo](https://github.com/apache/dubbo-admin) 与 [OpenTag](https://github.com/amplifthq/opentag) 贡献代码
 - 🌱 正在深入 云原生 / 微服务治理 / LLM Agent 工程
 - 💬 欢迎交流开源、后端架构与 AI 应用
 - 📫 联系我：[weiyu9484@gmail.com](mailto:weiyu9484@gmail.com)
 
 ---
 
-## 🏆 开源贡献 / Open Source Contributions
 
-参与贡献的开源项目：
-
-<p>
-  <a href="https://github.com/apache/dubbo-admin"><img src="https://img.shields.io/github/stars/apache/dubbo-admin?style=for-the-badge&logo=apache&logoColor=white&label=apache%2Fdubbo-admin&color=D22128" alt="apache/dubbo-admin stars" /></a>
-  <a href="https://github.com/amplifthq/opentag"><img src="https://img.shields.io/github/stars/amplifthq/opentag?style=for-the-badge&logo=github&logoColor=white&label=amplifthq%2Fopentag&color=181717" alt="amplifthq/opentag stars" /></a>
-</p>
 
 
 
