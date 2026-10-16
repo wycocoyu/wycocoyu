@@ -22,11 +22,11 @@ Go / Backend Developer · AI Application Builder · Open Source Contributor
 
 ### 项目
 
-| 项目 | 正在解决的问题 | 关注度 |
-| :--- | :--- | :--- |
-| **[Resume-Agent](https://github.com/wycocoyu/Resume-Agent)** | 从一句话生成简历，支持对话修改、可视化编辑与 PDF 导出。[在线体验 ↗](https://cococv.cn) | ![Stars](https://img.shields.io/github/stars/wycocoyu/Resume-Agent?style=flat-square&label=stars&color=0F766E) |
-| **[Notion Code Bridge](https://github.com/cocoyu-workspace/notion-code-bridge)** | 将 Notion AI 接入本地编码客户端，连接云端 Agent 与本地开发工具。 | ![Stars](https://img.shields.io/github/stars/cocoyu-workspace/notion-code-bridge?style=flat-square&label=stars&color=0F766E) |
-| **[Agent Knowledge Stack](https://github.com/wycocoyu/agent-knowledge-stack)** | 面向 Agent 的代码知识生成、导航、审查与知识更新。 | ![Stars](https://img.shields.io/github/stars/wycocoyu/agent-knowledge-stack?style=flat-square&label=stars&color=0F766E) |
+| 项目 | 正在解决的问题 |
+| :--- | :--- |
+| **[Resume-Agent](https://github.com/kkooww77/Resume-Agent)** | 从一句话生成简历，支持对话修改、可视化编辑与 PDF 导出。[在线体验 ↗](https://cococv.cn) |
+| **[Notion Code Bridge](https://github.com/cocoyu-workspace/notion-code-bridge)** | 将 Notion AI 接入本地编码客户端，连接云端 Agent 与本地开发工具。 |
+| **[Agent Knowledge Stack](https://github.com/wycocoyu/agent-knowledge-stack)** | 面向 Agent 的代码知识生成、导航、审查与知识更新。 |
 
 ### 开源贡献
 
