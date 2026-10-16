@@ -1,10 +1,8 @@
 <div align="center">
 
-![Cocoyu — Backend engineering · AI applications · Open source](./assets/header.svg)
+## Hi, I’m Cocoyu 👋
 
-**把 AI 能力做进真正能用的产品。**
-
-Go / Backend Developer · AI Application Builder · Open Source Contributor
+![Animated introduction](./assets/typing.svg)
 
 [![GitHub](https://img.shields.io/badge/GitHub-wycocoyu-181717?style=flat-square&logo=github)](https://github.com/wycocoyu)
 [![Email](https://img.shields.io/badge/Email-Let%27s_talk-0F766E?style=flat-square&logo=gmail&logoColor=white)](mailto:weiyu9484@gmail.com)

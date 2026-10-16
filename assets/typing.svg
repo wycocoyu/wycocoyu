@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="70" viewBox="0 0 900 70" role="img" aria-labelledby="title desc">
+<title id="title">Cocoyu — Backend developer and AI application builder</title>
+<desc id="desc">Animated introduction: Go / Backend Developer. Building useful AI applications. Learning through open source.</desc>
+<defs><clipPath id="line0"><rect x="291.6" y="0" width="0" height="70"><animate attributeName="width" values="0;316.8;316.8;0;0" keyTimes="0;0.18;0.28;0.3333;1" dur="15s" begin="0s" repeatCount="indefinite"/></rect></clipPath></defs>
+<text x="291.6" y="43" fill="#0f766e" font-family="monospace" font-size="24" textLength="316.8" lengthAdjust="spacingAndGlyphs" clip-path="url(#line0)">Go / Backend Developer</text>
+<rect x="291.6" y="21" width="2" height="27" fill="#0f766e" opacity="0">
+<animate attributeName="x" values="291.6;608.4000000000001;608.4000000000001;291.6;291.6" keyTimes="0;0.18;0.28;0.3333;1" dur="15s" begin="0s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.32;0.3333;1" dur="15s" begin="0s" repeatCount="indefinite"/>
+</rect>
+<defs><clipPath id="line1"><rect x="226.79999999999998" y="0" width="0" height="70"><animate attributeName="width" values="0;446.40000000000003;446.40000000000003;0;0" keyTimes="0;0.18;0.28;0.3333;1" dur="15s" begin="5s" repeatCount="indefinite"/></rect></clipPath></defs>
+<text x="226.79999999999998" y="43" fill="#0f766e" font-family="monospace" font-size="24" textLength="446.40000000000003" lengthAdjust="spacingAndGlyphs" clip-path="url(#line1)">Building useful AI applications</text>
+<rect x="226.79999999999998" y="21" width="2" height="27" fill="#0f766e" opacity="0">
+<animate attributeName="x" values="226.79999999999998;673.2;673.2;226.79999999999998;226.79999999999998" keyTimes="0;0.18;0.28;0.3333;1" dur="15s" begin="5s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.32;0.3333;1" dur="15s" begin="5s" repeatCount="indefinite"/>
+</rect>
+<defs><clipPath id="line2"><rect x="248.4" y="0" width="0" height="70"><animate attributeName="width" values="0;403.2;403.2;0;0" keyTimes="0;0.18;0.28;0.3333;1" dur="15s" begin="10s" repeatCount="indefinite"/></rect></clipPath></defs>
+<text x="248.4" y="43" fill="#0f766e" font-family="monospace" font-size="24" textLength="403.2" lengthAdjust="spacingAndGlyphs" clip-path="url(#line2)">Learning through open source</text>
+<rect x="248.4" y="21" width="2" height="27" fill="#0f766e" opacity="0">
+<animate attributeName="x" values="248.4;651.6;651.6;248.4;248.4" keyTimes="0;0.18;0.28;0.3333;1" dur="15s" begin="10s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.32;0.3333;1" dur="15s" begin="10s" repeatCount="indefinite"/>
+</rect>
+</svg>
