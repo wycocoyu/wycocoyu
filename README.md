@@ -16,23 +16,21 @@
 
 - **后端工程** · Go、分布式服务、中间件与微服务治理。
 - **AI 应用** · 简历生成与编辑、编码工具接入、Agent 工程。
-- **开源协作** · 持续维护自己的项目，也向 Apache Dubbo 等项目贡献代码。
+- **开源协作** · 持续维护自己的项目，也向 Apache Seata-Go、Apache Dubbo 和 OpenTag 等项目贡献代码。
 
 ### 项目
 
-| 项目 | 正在解决的问题 |
-| :--- | :--- |
-| **[Resume-Agent](https://github.com/wycocoyu/Resume-Agent)** | 从一句话生成简历，支持对话修改、可视化编辑与 PDF 导出。[在线体验 ↗](https://cococv.cn) |
+| 项目 | 正在解决的问题 | Stars |
+| :--- | :--- | :---: |
+| **[Resume-Agent](https://github.com/wycocoyu/Resume-Agent)** | 从一句话生成简历，支持对话修改、可视化编辑与 PDF 导出。[在线体验 ↗](https://cococv.cn) | [![Stars](https://img.shields.io/github/stars/wycocoyu/Resume-Agent?style=flat-square&label=Stars&color=0F766E&cacheSeconds=300)](https://github.com/wycocoyu/Resume-Agent/stargazers) |
 
 ### 开源贡献
 
-**[Apache Dubbo / dubbo-admin](https://github.com/apache/dubbo-admin)**
-
-参与事件总线、缓存计数与项目维护。部分已合并贡献：
-
-- [事件总线支持订阅者异步分发与优雅排空 #1455](https://github.com/apache/dubbo-admin/pull/1455)
-- [实现按 Key 计数 #1390](https://github.com/apache/dubbo-admin/pull/1390)
-- [修复计数器问题 #1369](https://github.com/apache/dubbo-admin/pull/1369)
+| 项目 | 贡献内容 | 已合并 PR |
+| :--- | :--- | :--- |
+| **[Apache Seata-Go](https://github.com/apache/incubator-seata-go)** | 分布式事务；修复 undo log 编解码兼容问题、后台协程退出问题，完善版本支持。 | [#1135](https://github.com/apache/incubator-seata-go/pull/1135) · [#996](https://github.com/apache/incubator-seata-go/pull/996) · [#895](https://github.com/apache/incubator-seata-go/pull/895) |
+| **[Apache Dubbo](https://github.com/apache/dubbo-admin)** | 在 dubbo-admin 中参与事件总线异步分发、优雅排空和缓存计数改进。 | [#1455](https://github.com/apache/dubbo-admin/pull/1455) · [#1390](https://github.com/apache/dubbo-admin/pull/1390) · [#1369](https://github.com/apache/dubbo-admin/pull/1369) |
+| **[OpenTag / OpenMeld](https://github.com/amplifthq/openmeld)** | 为 Agent 消息路由工具添加 Discord adapter；项目现名 OpenMeld。 | [#70](https://github.com/amplifthq/openmeld/pull/70) |
 
 [查看我的更多已合并贡献 ↗](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Awycocoyu+-user%3Awycocoyu)
 
