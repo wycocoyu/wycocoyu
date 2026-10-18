@@ -12,25 +12,25 @@
 
 ### 关于我
 
-我是 Cocoyu，主要做后端开发与 AI 应用，关注从模型接入、工具调用到产品交付的完整过程。
+我是 Cocoyu，主要做后端开发与 AI 应用：关注从模型接入、工具调用到产品交付的完整过程。
 
 - **后端工程** · Go、分布式服务、中间件与微服务治理。
 - **AI 应用** · 简历生成与编辑、编码工具接入、Agent 工程。
-- **开源协作** · 持续维护自己的项目，也向 Apache Seata-Go、Apache Dubbo 和 OpenTag 等项目贡献代码。
+- **开源协作** · 持续维护自己的项目：也向 Apache Seata-Go、Apache Dubbo 和 OpenTag 等项目贡献代码。
 
 ### 项目
 
 | 项目 | 正在解决的问题 | Stars |
 | :--- | :--- | :---: |
-| **[Resume-Agent](https://github.com/wycocoyu/Resume-Agent)** | 从一句话生成简历，支持对话修改、可视化编辑与 PDF 导出。[在线体验 ↗](https://cococv.cn) | [![Stars](https://img.shields.io/github/stars/wycocoyu/Resume-Agent?style=flat-square&label=Stars&color=0F766E&cacheSeconds=300)](https://github.com/wycocoyu/Resume-Agent/stargazers) |
+| **[Resume-Agent](https://github.com/wycocoyu/Resume-Agent)** | 从一句话生成简历：支持对话修改、可视化编辑与 PDF 导出。[在线体验 ↗](https://cococv.cn) | [![Stars](https://img.shields.io/github/stars/wycocoyu/Resume-Agent?style=flat-square&label=Stars&color=0F766E&cacheSeconds=300)](https://github.com/wycocoyu/Resume-Agent/stargazers) |
 
 ### 开源贡献
 
 | 项目 | 贡献内容 | 已合并 PR | Stars |
 | :--- | :--- | :--- | :---: |
-| **[Apache Seata-Go](https://github.com/apache/incubator-seata-go)** | 分布式事务；修复 undo log 编解码兼容问题、后台协程退出问题，完善版本支持。 | [#1135](https://github.com/apache/incubator-seata-go/pull/1135) · [#996](https://github.com/apache/incubator-seata-go/pull/996) · [#895](https://github.com/apache/incubator-seata-go/pull/895) | [![Stars](https://img.shields.io/github/stars/apache/incubator-seata-go?style=flat-square&label=Stars&color=0F766E&cacheSeconds=300)](https://github.com/apache/incubator-seata-go/stargazers) |
+| **[Apache Seata-Go](https://github.com/apache/incubator-seata-go)** | 分布式事务。修复 undo log 编解码兼容问题、后台协程退出问题，完善版本支持。 | [#1135](https://github.com/apache/incubator-seata-go/pull/1135) · [#996](https://github.com/apache/incubator-seata-go/pull/996) · [#895](https://github.com/apache/incubator-seata-go/pull/895) | [![Stars](https://img.shields.io/github/stars/apache/incubator-seata-go?style=flat-square&label=Stars&color=0F766E&cacheSeconds=300)](https://github.com/apache/incubator-seata-go/stargazers) |
 | **[Apache Dubbo](https://github.com/apache/dubbo-admin)** | 在 dubbo-admin 中参与事件总线异步分发、优雅排空和缓存计数改进。 | [#1455](https://github.com/apache/dubbo-admin/pull/1455) · [#1390](https://github.com/apache/dubbo-admin/pull/1390) · [#1369](https://github.com/apache/dubbo-admin/pull/1369) | [![Stars](https://img.shields.io/github/stars/apache/dubbo-admin?style=flat-square&label=Stars&color=0F766E&cacheSeconds=300)](https://github.com/apache/dubbo-admin/stargazers) |
-| **[OpenTag / OpenMeld](https://github.com/amplifthq/openmeld)** | 为 Agent 消息路由工具添加 Discord adapter；项目现名 OpenMeld。 | [#70](https://github.com/amplifthq/openmeld/pull/70) | [![Stars](https://img.shields.io/github/stars/amplifthq/openmeld?style=flat-square&label=Stars&color=0F766E&cacheSeconds=300)](https://github.com/amplifthq/openmeld/stargazers) |
+| **[OpenTag / OpenMeld](https://github.com/amplifthq/openmeld)** | 为 Agent 消息路由工具添加 Discord adapter。项目现名 OpenMeld。 | [#70](https://github.com/amplifthq/openmeld/pull/70) | [![Stars](https://img.shields.io/github/stars/amplifthq/openmeld?style=flat-square&label=Stars&color=0F766E&cacheSeconds=300)](https://github.com/amplifthq/openmeld/stargazers) |
 
 [查看我的更多已合并贡献 ↗](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Awycocoyu+-user%3Awycocoyu)
 
