@@ -6,7 +6,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-wycocoyu-181717?style=flat-square&logo=github)](https://github.com/wycocoyu)
 [![Email](https://img.shields.io/badge/Email-Let%27s_talk-0F766E?style=flat-square&logo=gmail&logoColor=white)](mailto:weiyu9484@gmail.com)
-[![Resume-Agent Demo](https://img.shields.io/badge/Resume--Agent-Live_Demo-2563EB?style=flat-square)](https://cococv.cn)
 
 </div>
 
@@ -15,14 +14,8 @@
 我是 Cocoyu，主要做后端开发与 AI 应用：关注从模型接入、工具调用到产品交付的完整过程。
 
 - **后端工程** · Go、分布式服务、中间件与微服务治理。
-- **AI 应用** · 简历生成与编辑、编码工具接入、Agent 工程。
+- **AI 应用** · 模型接入、编码工具接入、Agent 工程。
 - **开源协作** · 持续维护自己的项目：也向 Apache Seata-Go、Apache Dubbo 和 OpenTag 等项目贡献代码。
-
-### 项目
-
-| 项目 | 正在解决的问题 | Stars |
-| :--- | :--- | :---: |
-| **[Resume-Agent](https://github.com/wycocoyu/Resume-Agent)** | 从一句话生成简历：支持对话修改、可视化编辑与 PDF 导出。[在线体验 ↗](https://cococv.cn) | [![Stars](https://img.shields.io/github/stars/wycocoyu/Resume-Agent?style=flat-square&label=Stars&color=0F766E&cacheSeconds=300)](https://github.com/wycocoyu/Resume-Agent/stargazers) |
 
 ### 开源贡献
 
