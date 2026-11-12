@@ -5,7 +5,6 @@
 ![Animated introduction](./assets/typing.svg)
 
 [![GitHub](https://img.shields.io/badge/GitHub-wycocoyu-181717?style=flat-square&logo=github)](https://github.com/wycocoyu)
-[![Email](https://img.shields.io/badge/Email-Let%27s_talk-0F766E?style=flat-square&logo=gmail&logoColor=white)](mailto:weiyu9484@gmail.com)
 
 </div>
 
@@ -44,6 +43,5 @@
 <div align="center">
 
 欢迎交流后端工程、AI 应用与开源协作。<br/>
-<a href="mailto:weiyu9484@gmail.com">Email</a> · <a href="https://github.com/wycocoyu?tab=repositories">Repositories</a> · <a href="https://github.com/wycocoyu?tab=overview">Activity</a>
 
 </div>
