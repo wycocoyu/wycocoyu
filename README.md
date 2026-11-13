@@ -14,7 +14,7 @@
 
 - **后端工程** · Go、分布式服务、中间件与微服务治理。
 - **AI 应用** · 模型接入、编码工具接入、Agent 工程。
-- **开源协作** · 独立维护 AI 项目，也向 mcp-go、Apache Dubbo、Apache Seata-Go 和 Tencent LoopForge 等项目贡献代码。
+- **开源协作** · 独立维护 AI 项目，也向 mcp-go、Apache Dubbo、Apache Seata-Go、Tencent LoopForge 与 Cindy 等项目贡献代码。
 
 ### 开源项目与贡献
 
@@ -56,6 +56,18 @@
     </td>
   </tr>
 </table>
+
+<details>
+<summary><strong>更多已合并开源贡献（5 merged PRs · Cindy / OpenCode Goal Plugin / Pairlet / AIResume）</strong></summary>
+
+| 项目 | Stars | 贡献内容 | PR |
+| :--- | :--- | :--- | :--- |
+| [**makecindy/cindy**](https://github.com/makecindy/cindy) | 🌟 10k | 修复 macOS 桌面端分屏切换时整窗闪烁问题 | [#9310](https://github.com/makecindy/cindy/pull/9310) |
+| [**prevalentWare/opencode-goal-plugin**](https://github.com/prevalentWare/opencode-goal-plugin) | 🌟 530 | 将命令级 `session.wait` 限制在 ACP 路径，规避 Desktop 60s 超时 | [#118](https://github.com/prevalentWare/opencode-goal-plugin/pull/118) |
+| [**heypandax/pairlet**](https://github.com/heypandax/pairlet) | 🌟 157 | 桌面端主内容区分屏并行输入 & 拖拽会话行触发分屏 | [#327](https://github.com/heypandax/pairlet/pull/327) · [#335](https://github.com/heypandax/pairlet/pull/335) |
+| [**weidong-repo/AIResume**](https://github.com/weidong-repo/AIResume) | 🌟 210 | 优化简历模板起止时间边界显示逻辑 | [#9](https://github.com/weidong-repo/AIResume/pull/9) |
+
+</details>
 
 ### 常用技术
 
