@@ -10,21 +10,47 @@
 
 ### 关于我
 
-我是 Cocoyu，主要做后端开发与 AI 应用：关注从模型接入、工具调用到产品交付的完整过程。
+我是 Cocoyu，主要做后端开发与 AI 应用，关注从模型接入、工具调用到产品交付的完整过程。
 
 - **后端工程** · Go、分布式服务、中间件与微服务治理。
 - **AI 应用** · 模型接入、编码工具接入、Agent 工程。
-- **开源协作** · 持续维护自己的项目：也向 Apache Seata-Go、Apache Dubbo 和 OpenTag 等项目贡献代码。
+- **开源协作** · 独立维护 AI 项目，也向 Apache Dubbo、Apache Seata-Go 和 Tencent LoopForge 等项目贡献代码。
 
-### 开源贡献
+### 开源项目与贡献
 
-| 项目 | 贡献内容 | 已合并 PR | Stars |
-| :--- | :--- | :--- | :---: |
-| **[Apache Seata-Go](https://github.com/apache/incubator-seata-go)** | 分布式事务。修复 undo log 编解码兼容问题、后台协程退出问题，完善版本支持。 | [#1135](https://github.com/apache/incubator-seata-go/pull/1135) · [#996](https://github.com/apache/incubator-seata-go/pull/996) · [#895](https://github.com/apache/incubator-seata-go/pull/895) | [![Stars](https://img.shields.io/github/stars/apache/incubator-seata-go?style=flat-square&label=Stars&color=0F766E&cacheSeconds=300)](https://github.com/apache/incubator-seata-go/stargazers) |
-| **[Apache Dubbo](https://github.com/apache/dubbo-admin)** | 在 dubbo-admin 中参与事件总线异步分发、优雅排空和缓存计数改进。 | [#1455](https://github.com/apache/dubbo-admin/pull/1455) · [#1390](https://github.com/apache/dubbo-admin/pull/1390) · [#1369](https://github.com/apache/dubbo-admin/pull/1369) | [![Stars](https://img.shields.io/github/stars/apache/dubbo-admin?style=flat-square&label=Stars&color=0F766E&cacheSeconds=300)](https://github.com/apache/dubbo-admin/stargazers) |
-| **[OpenTag / OpenMeld](https://github.com/amplifthq/openmeld)** | 为 Agent 消息路由工具添加 Discord adapter。项目现名 OpenMeld。 | [#70](https://github.com/amplifthq/openmeld/pull/70) | [![Stars](https://img.shields.io/github/stars/amplifthq/openmeld?style=flat-square&label=Stars&color=0F766E&cacheSeconds=300)](https://github.com/amplifthq/openmeld/stargazers) |
-
-[查看我的更多已合并贡献 ↗](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3Awycocoyu+-user%3Awycocoyu)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/apache/dubbo-admin">Apache Dubbo</a> · 5 merged PRs</h3>
+      <p><sub>🌟 4.1k stars</sub><br/>在 dubbo-admin 中参与事件总线异步分发、优雅排空和缓存计数改进。</p>
+      <a href="https://github.com/apache/dubbo-admin/pulls?q=is%3Apr+author%3Awycocoyu+is%3Amerged">View contributions →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/apache/incubator-seata-go">Apache Seata-Go</a> · 3 merged PRs</h3>
+      <p><sub>🌟 1.7k stars</sub><br/>分布式事务框架。修复 RM undo log 编解码兼容问题、后台协程优雅退出，完善版本支持。</p>
+      <a href="https://github.com/apache/incubator-seata-go/pulls?q=is%3Apr+author%3Awycocoyu+is%3Amerged">View contributions →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Tencent/LoopForge">Tencent LoopForge</a> · 2 merged PRs</h3>
+      <p><sub>🌟 580+ stars</sub><br/>云原生 Agent 研发交付环境。接入 ZCode 作为 CLI 执行器，优化工作区克隆与容器构建进度上报。</p>
+      <a href="https://github.com/Tencent/LoopForge/pulls?q=is%3Apr+author%3Awycocoyu+is%3Amerged">View contributions →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/amplifthq/openmeld">OpenTag / OpenMeld</a> · 1 merged PR</h3>
+      <p><sub>🌟 1.4k stars</sub><br/>为 Agent 消息路由网关添加 Discord adapter 与协议支持。项目现名 OpenMeld。</p>
+      <a href="https://github.com/amplifthq/openmeld/pulls?q=is%3Apr+author%3Awycocoyu+is%3Amerged">View contribution →</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/wycocoyu/Resume-Agent">Resume-Agent</a> · Creator</h3>
+      <p><sub>🌟 190+ stars</sub><br/>Full-stack AI Resume Agent & LaTeX Editor (<a href="https://cococv.cn">cococv.cn</a>)。一句话在线生成可修改的高清 LaTeX PDF 简历，支持 AI 对话生成、ATS 诊断检查与多格式导入导出。</p>
+      <a href="https://github.com/wycocoyu/Resume-Agent">Explore project →</a>
+    </td>
+  </tr>
+</table>
 
 ### 常用技术
 
