@@ -14,7 +14,7 @@
 
 - **后端工程** · Go、分布式服务、中间件与微服务治理。
 - **AI 应用** · 模型接入、编码工具接入、Agent 工程。
-- **开源协作** · 独立维护 AI 项目，也向 Apache Dubbo、Apache Seata-Go 和 Tencent LoopForge 等项目贡献代码。
+- **开源协作** · 独立维护 AI 项目，也向 mcp-go、Apache Dubbo、Apache Seata-Go 和 Tencent LoopForge 等项目贡献代码。
 
 ### 开源项目与贡献
 
@@ -44,9 +44,14 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mark3labs/mcp-go">mcp-go</a> · 2 merged PRs</h3>
+      <p><sub>🌟 9.2k stars</sub><br/>Go 语言 Model Context Protocol (MCP) 核心实现。修复 AddTaskTool 执行结果负载处理与客户端示例。</p>
+      <a href="https://github.com/mark3labs/mcp-go/pulls?q=is%3Apr+author%3Awycocoyu+is%3Amerged">View contributions →</a>
+    </td>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/wycocoyu/Resume-Agent">Resume-Agent</a> · Creator</h3>
-      <p><sub>🌟 190+ stars</sub><br/>Full-stack AI Resume Agent & LaTeX Editor (<a href="https://cococv.cn">cococv.cn</a>)。一句话在线生成可修改的高清 LaTeX PDF 简历，支持 AI 对话生成、ATS 诊断检查与多格式导入导出。</p>
+      <p><sub>🌟 190+ stars</sub><br/>Full-stack AI Resume Agent & LaTeX Editor (<a href="https://cococv.cn">cococv.cn</a>)。一句话在线生成可修改的高清 LaTeX PDF 简历与 ATS 诊断。</p>
       <a href="https://github.com/wycocoyu/Resume-Agent">Explore project →</a>
     </td>
   </tr>
