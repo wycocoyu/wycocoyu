@@ -34,7 +34,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Tencent/LoopForge">Tencent LoopForge</a> · 2 merged PRs</h3>
-      <p><sub>🌟 580+ stars</sub><br/>云原生 Agent 研发交付环境。接入 ZCode 作为 CLI 执行器，优化工作区克隆与容器构建进度上报。</p>
+      <p><sub>🌟 2.0k stars</sub><br/>云原生 Agent 研发交付环境。接入 ZCode 作为 CLI 执行器，优化工作区克隆与容器构建进度上报。</p>
       <a href="https://github.com/Tencent/LoopForge/pulls?q=is%3Apr+author%3Awycocoyu+is%3Amerged">View contributions →</a>
     </td>
     <td width="50%" valign="top">
@@ -51,20 +51,20 @@
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/wycocoyu/Resume-Agent">Resume-Agent</a> · Creator</h3>
-      <p><sub>🌟 190+ stars</sub><br/>Full-stack AI Resume Agent & LaTeX Editor (<a href="https://cococv.cn">cococv.cn</a>)。一句话在线生成可修改的高清 LaTeX PDF 简历与 ATS 诊断。</p>
+      <p><sub>🌟 181 stars</sub><br/>Full-stack AI Resume Agent & LaTeX Editor (<a href="https://cococv.cn">cococv.cn</a>)。一句话在线生成可修改的高清 LaTeX PDF 简历与 ATS 诊断。</p>
       <a href="https://github.com/wycocoyu/Resume-Agent">Explore project →</a>
     </td>
   </tr>
 </table>
 
 <details>
-<summary><strong>更多已合并开源贡献（5 merged PRs · Cindy / OpenCode Goal Plugin / Pairlet / AIResume）</strong></summary>
+<summary><strong>更多已合并开源贡献（6 merged PRs · Cindy / OpenCode Goal Plugin / Pairlet / AIResume）</strong></summary>
 
 | 项目 | Stars | 贡献内容 | PR |
 | :--- | :--- | :--- | :--- |
-| [**makecindy/cindy**](https://github.com/makecindy/cindy) | 🌟 10k | 修复 macOS 桌面端分屏切换时整窗闪烁问题 | [#9310](https://github.com/makecindy/cindy/pull/9310) |
-| [**prevalentWare/opencode-goal-plugin**](https://github.com/prevalentWare/opencode-goal-plugin) | 🌟 530 | 将命令级 `session.wait` 限制在 ACP 路径，规避 Desktop 60s 超时 | [#118](https://github.com/prevalentWare/opencode-goal-plugin/pull/118) |
-| [**heypandax/pairlet**](https://github.com/heypandax/pairlet) | 🌟 157 | 桌面端主内容区分屏并行输入 & 拖拽会话行触发分屏 | [#327](https://github.com/heypandax/pairlet/pull/327) · [#335](https://github.com/heypandax/pairlet/pull/335) |
+| [**makecindy/cindy**](https://github.com/makecindy/cindy) | 🌟 10.2k | 修复 macOS 桌面端分屏切换整窗闪烁、分屏滚动条抖动与边缘接缝问题 | [#9310](https://github.com/makecindy/cindy/pull/9310) · [#10719](https://github.com/makecindy/cindy/pull/10719) |
+| [**prevalentWare/opencode-goal-plugin**](https://github.com/prevalentWare/opencode-goal-plugin) | 🌟 532 | 将命令级 `session.wait` 限制在 ACP 路径，规避 Desktop 60s 超时 | [#118](https://github.com/prevalentWare/opencode-goal-plugin/pull/118) |
+| [**heypandax/pairlet**](https://github.com/heypandax/pairlet) | 🌟 159 | 桌面端主内容区分屏并行输入 & 拖拽会话行触发分屏 | [#327](https://github.com/heypandax/pairlet/pull/327) · [#335](https://github.com/heypandax/pairlet/pull/335) |
 | [**weidong-repo/AIResume**](https://github.com/weidong-repo/AIResume) | 🌟 210 | 优化简历模板起止时间边界显示逻辑 | [#9](https://github.com/weidong-repo/AIResume/pull/9) |
 
 </details>
