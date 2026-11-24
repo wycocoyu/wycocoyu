@@ -28,6 +28,6 @@
 
 <div align="center">
 
-欢迎交流后端工程、AI 应用与开源协作。<br/>
+欢迎交流。<br/>
 
 </div>
