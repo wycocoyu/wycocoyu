@@ -10,11 +10,7 @@
 
 ### 关于我
 
-我是 Cocoyu  主要做后端开发与 AI 应用  
-
-- **后端工程** · Go、分布式服务、中间件与微服务治理。
-- **AI 应用** · 模型接入、编码工具接入、Agent 工程。
-- **开源协作** · 独立维护 AI 项目、也向 mcp-go、Apache Dubbo、Apache Seata-Go、Tencent LoopForge 与 Cindy 等项目贡献代码。
+嘻嘻嘻嘻嘻嘻嘻嘻嘻大家晚安
 
 ### 常用技术
 
