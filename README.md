@@ -12,8 +12,6 @@
 
 嘻嘻嘻嘻嘻嘻嘻嘻嘻大家晚安
 
-<img width="512" height="512" alt="img_v3_0217p_99f28c24-8e4f-47aa-a44f-16974983c5bg" src="https://github.com/user-attachments/assets/2fc9c133-2981-41ec-8509-a2ed6532a989" />
-
 
 ### 常用技术
 
