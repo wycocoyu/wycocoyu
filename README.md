@@ -63,6 +63,41 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://music.163.com/#/song?id=306855">
+        <img src="https://p1.music.126.net/Bz8Oa6pWnH_cLUsZ2cTMZw==/109951172271408112.jpg?param=200y200" width="100" height="100" alt="苏州河 专辑封面" />
+      </a>
+      <br/>
+      <strong>苏州河</strong><br/>
+      <sub>薛凯琪 · 《Read Me》</sub><br/><br/>
+      <a href="https://music.163.com/#/song?id=306855">
+        <img src="https://img.shields.io/badge/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90-%E5%8E%BB%E5%90%AC%E6%AD%8C-C20C0C?style=flat-square&logo=neteasecloudmusic&logoColor=white" alt="网易云音乐" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://music.163.com/#/song?id=2008017517">
+        <img src="https://p2.music.126.net/Hb-sGzuMq_EIhPIab4-Zkg==/109951169165009022.jpg?param=200y200" width="100" height="100" alt="Ditto 专辑封面" />
+      </a>
+      <br/>
+      <strong>Ditto</strong><br/>
+      <sub>NewJeans · 《OMG》</sub><br/><br/>
+      <a href="https://music.163.com/#/song?id=2008017517">
+        <img src="https://img.shields.io/badge/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90-%E5%8E%BB%E5%90%AC%E6%AD%8C-C20C0C?style=flat-square&logo=neteasecloudmusic&logoColor=white" alt="网易云音乐" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://music.163.com/#/song?id=2100346386">
+        <img src="https://p2.music.126.net/UNIxa1FEyj4urgG8MHyHng==/109951169058901760.jpg?param=200y200" width="100" height="100" alt="过季短袖 专辑封面" />
+      </a>
+      <br/>
+      <strong>过季短袖</strong><br/>
+      <sub>廖俊涛 · 《过季短袖》</sub><br/><br/>
+      <a href="https://music.163.com/#/song?id=2100346386">
+        <img src="https://img.shields.io/badge/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90-%E5%8E%BB%E5%90%AC%E6%AD%8C-C20C0C?style=flat-square&logo=neteasecloudmusic&logoColor=white" alt="网易云音乐" />
+      </a>
+    </td>
+  </tr>
 </table>
 
 ---
