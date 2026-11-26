@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi, I’m Cocoyu 👋
+## Hi
 
 ![Animated introduction](./assets/typing.svg)
 
