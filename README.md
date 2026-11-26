@@ -29,9 +29,9 @@
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="20%">
       <a href="https://music.163.com/#/song?id=29751570">
-        <img src="https://p2.music.126.net/v4fNM7hOPOiFinkgruZxMw==/109951167915906885.jpg?param=200y200" width="100" height="100" alt="旅行中忘记 专辑封面" />
+        <img src="https://p2.music.126.net/v4fNM7hOPOiFinkgruZxMw==/109951167915906885.jpg?param=200y200" width="84" height="84" alt="旅行中忘记 专辑封面" />
       </a>
       <br/>
       <strong>旅行中忘记</strong><br/>
@@ -40,9 +40,9 @@
         <img src="https://img.shields.io/badge/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90-%E5%8E%BB%E5%90%AC%E6%AD%8C-C20C0C?style=flat-square&logo=neteasecloudmusic&logoColor=white" alt="网易云音乐" />
       </a>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="20%">
       <a href="https://music.163.com/#/song?id=209536">
-        <img src="https://p1.music.126.net/6hvlyAShwmxqzEDuX_Al9A==/109951170517281778.jpg?param=200y200" width="100" height="100" alt="嫉妒 专辑封面" />
+        <img src="https://p1.music.126.net/6hvlyAShwmxqzEDuX_Al9A==/109951170517281778.jpg?param=200y200" width="84" height="84" alt="嫉妒 专辑封面" />
       </a>
       <br/>
       <strong>嫉妒</strong><br/>
@@ -51,9 +51,9 @@
         <img src="https://img.shields.io/badge/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90-%E5%8E%BB%E5%90%AC%E6%AD%8C-C20C0C?style=flat-square&logo=neteasecloudmusic&logoColor=white" alt="网易云音乐" />
       </a>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="20%">
       <a href="https://music.163.com/#/song?id=223994">
-        <img src="https://p2.music.126.net/rskOQly_BrQ2_31NN6hjFA==/109951172402265270.jpg?param=200y200" width="100" height="100" alt="你要的爱 专辑封面" />
+        <img src="https://p2.music.126.net/rskOQly_BrQ2_31NN6hjFA==/109951172402265270.jpg?param=200y200" width="84" height="84" alt="你要的爱 专辑封面" />
       </a>
       <br/>
       <strong>你要的爱</strong><br/>
@@ -62,11 +62,9 @@
         <img src="https://img.shields.io/badge/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90-%E5%8E%BB%E5%90%AC%E6%AD%8C-C20C0C?style=flat-square&logo=neteasecloudmusic&logoColor=white" alt="网易云音乐" />
       </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
+    <td align="center" width="20%">
       <a href="https://music.163.com/#/song?id=306855">
-        <img src="https://p1.music.126.net/Bz8Oa6pWnH_cLUsZ2cTMZw==/109951172271408112.jpg?param=200y200" width="100" height="100" alt="苏州河 专辑封面" />
+        <img src="https://p1.music.126.net/Bz8Oa6pWnH_cLUsZ2cTMZw==/109951172271408112.jpg?param=200y200" width="84" height="84" alt="苏州河 专辑封面" />
       </a>
       <br/>
       <strong>苏州河</strong><br/>
@@ -75,9 +73,9 @@
         <img src="https://img.shields.io/badge/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90-%E5%8E%BB%E5%90%AC%E6%AD%8C-C20C0C?style=flat-square&logo=neteasecloudmusic&logoColor=white" alt="网易云音乐" />
       </a>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="20%">
       <a href="https://music.163.com/#/song?id=2008017517">
-        <img src="https://p2.music.126.net/Hb-sGzuMq_EIhPIab4-Zkg==/109951169165009022.jpg?param=200y200" width="100" height="100" alt="Ditto 专辑封面" />
+        <img src="https://p2.music.126.net/Hb-sGzuMq_EIhPIab4-Zkg==/109951169165009022.jpg?param=200y200" width="84" height="84" alt="Ditto 专辑封面" />
       </a>
       <br/>
       <strong>Ditto</strong><br/>
@@ -86,9 +84,11 @@
         <img src="https://img.shields.io/badge/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90-%E5%8E%BB%E5%90%AC%E6%AD%8C-C20C0C?style=flat-square&logo=neteasecloudmusic&logoColor=white" alt="网易云音乐" />
       </a>
     </td>
-    <td align="center" width="33%">
+  </tr>
+  <tr>
+    <td align="center" width="20%">
       <a href="https://music.163.com/#/song?id=2100346386">
-        <img src="https://p2.music.126.net/UNIxa1FEyj4urgG8MHyHng==/109951169058901760.jpg?param=200y200" width="100" height="100" alt="过季短袖 专辑封面" />
+        <img src="https://p2.music.126.net/UNIxa1FEyj4urgG8MHyHng==/109951169058901760.jpg?param=200y200" width="84" height="84" alt="过季短袖 专辑封面" />
       </a>
       <br/>
       <strong>过季短袖</strong><br/>
@@ -97,11 +97,9 @@
         <img src="https://img.shields.io/badge/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90-%E5%8E%BB%E5%90%AC%E6%AD%8C-C20C0C?style=flat-square&logo=neteasecloudmusic&logoColor=white" alt="网易云音乐" />
       </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
+    <td align="center" width="20%">
       <a href="https://music.163.com/#/song?id=286959">
-        <img src="https://p2.music.126.net/I9O-KpO4bLC6LWOKYfJj4Q==/109951165992337446.jpg?param=200y200" width="100" height="100" alt="当冬夜渐暖 专辑封面" />
+        <img src="https://p2.music.126.net/I9O-KpO4bLC6LWOKYfJj4Q==/109951165992337446.jpg?param=200y200" width="84" height="84" alt="当冬夜渐暖 专辑封面" />
       </a>
       <br/>
       <strong>当冬夜渐暖</strong><br/>
@@ -110,9 +108,9 @@
         <img src="https://img.shields.io/badge/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90-%E5%8E%BB%E5%90%AC%E6%AD%8C-C20C0C?style=flat-square&logo=neteasecloudmusic&logoColor=white" alt="网易云音乐" />
       </a>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="20%">
       <a href="https://music.163.com/#/song?id=548556869">
-        <img src="https://p2.music.126.net/lLe5qRI7G9UV1NTEEvLa-g==/109951166155142333.jpg?param=200y200" width="100" height="100" alt="半句再见 专辑封面" />
+        <img src="https://p2.music.126.net/lLe5qRI7G9UV1NTEEvLa-g==/109951166155142333.jpg?param=200y200" width="84" height="84" alt="半句再见 专辑封面" />
       </a>
       <br/>
       <strong>半句再见</strong><br/>
@@ -121,9 +119,9 @@
         <img src="https://img.shields.io/badge/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90-%E5%8E%BB%E5%90%AC%E6%AD%8C-C20C0C?style=flat-square&logo=neteasecloudmusic&logoColor=white" alt="网易云音乐" />
       </a>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="20%">
       <a href="https://music.163.com/#/song?id=208891">
-        <img src="https://p1.music.126.net/5TTqb3sID_G-u2YOS2P0aA==/109951171536245206.jpg?param=200y200" width="100" height="100" alt="Letting Go 专辑封面" />
+        <img src="https://p1.music.126.net/5TTqb3sID_G-u2YOS2P0aA==/109951171536245206.jpg?param=200y200" width="84" height="84" alt="Letting Go 专辑封面" />
       </a>
       <br/>
       <strong>Letting Go</strong><br/>
@@ -132,6 +130,7 @@
         <img src="https://img.shields.io/badge/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90-%E5%8E%BB%E5%90%AC%E6%AD%8C-C20C0C?style=flat-square&logo=neteasecloudmusic&logoColor=white" alt="网易云音乐" />
       </a>
     </td>
+    <td width="20%"></td>
   </tr>
 </table>
 
