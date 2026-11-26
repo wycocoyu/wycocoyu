@@ -98,6 +98,41 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://music.163.com/#/song?id=286959">
+        <img src="https://p2.music.126.net/I9O-KpO4bLC6LWOKYfJj4Q==/109951165992337446.jpg?param=200y200" width="100" height="100" alt="当冬夜渐暖 专辑封面" />
+      </a>
+      <br/>
+      <strong>当冬夜渐暖</strong><br/>
+      <sub>孙燕姿 · 《是时候》</sub><br/><br/>
+      <a href="https://music.163.com/#/song?id=286959">
+        <img src="https://img.shields.io/badge/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90-%E5%8E%BB%E5%90%AC%E6%AD%8C-C20C0C?style=flat-square&logo=neteasecloudmusic&logoColor=white" alt="网易云音乐" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://music.163.com/#/song?id=548556869">
+        <img src="https://p2.music.126.net/lLe5qRI7G9UV1NTEEvLa-g==/109951166155142333.jpg?param=200y200" width="100" height="100" alt="半句再见 专辑封面" />
+      </a>
+      <br/>
+      <strong>半句再见</strong><br/>
+      <sub>孙燕姿 · 《半句再见》</sub><br/><br/>
+      <a href="https://music.163.com/#/song?id=548556869">
+        <img src="https://img.shields.io/badge/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90-%E5%8E%BB%E5%90%AC%E6%AD%8C-C20C0C?style=flat-square&logo=neteasecloudmusic&logoColor=white" alt="网易云音乐" />
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://music.163.com/#/song?id=208891">
+        <img src="https://p1.music.126.net/5TTqb3sID_G-u2YOS2P0aA==/109951171536245206.jpg?param=200y200" width="100" height="100" alt="Letting Go 专辑封面" />
+      </a>
+      <br/>
+      <strong>Letting Go</strong><br/>
+      <sub>蔡健雅 · 《说到爱》</sub><br/><br/>
+      <a href="https://music.163.com/#/song?id=208891">
+        <img src="https://img.shields.io/badge/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90-%E5%8E%BB%E5%90%AC%E6%AD%8C-C20C0C?style=flat-square&logo=neteasecloudmusic&logoColor=white" alt="网易云音乐" />
+      </a>
+    </td>
+  </tr>
 </table>
 
 ---
